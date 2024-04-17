@@ -1,4 +1,5 @@
-## Weekly Meal Planner v.1 - AnythingButSpam3000
+## Weekly Meal Planner v.1 - AnythingButSpam3000 
+### Release notes and user guide
 
 For a week commencing, using this prompt will produce a weekly breakdown of proposed dinners for each of the night. 
  
@@ -18,4 +19,4 @@ Paste the code extract below into the 'Message ChatGPT...' field and submit.
 It should then ask you for a week commencing ("NEW INPUT: Week commencing Monday 22nd of April") and any additional preferences - e.g. "I'd like to cook with some leafy greens this week."
 What should result is a weekly breakdown of suggested meals, their prep times, nutritional information and ingredients. Below the weekly summary will be a handy ingredient list which could function as a shopping list/pantry or fridge checklist.
 
-![[20240416-weekly_meal_plan_HL_schematic.png]]
+![image](https://github.com/TristanLouthRobins/prompt_engineering_frameworks/assets/62044678/de684228-69d5-43cf-85cd-7835de286f9b)
