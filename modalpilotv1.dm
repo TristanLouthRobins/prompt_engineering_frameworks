@@ -1,4 +1,5 @@
 COMPOSITE ENGINEERED PROMPT - ModalPilot v1
+# Bot is also available via Poe: https://poe.com/ModalPilot.v1
 
 # **SOURCE PERSONA (optional)**
 
